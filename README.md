@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @themr255
-- 👀 I’m interested in learning different DevOps tools.
-- 🌱 I’m currently learning Ansible advanced.
+- 👋 Hi, I’m @themr255 😊
+ 
+- 💻💼 I'm currently working as DevOps engineer. And mainly working on Azure DevOps pipelines, Ansible, Python and Shell script automations.
+
+- 📘✍️ I’m interested in learning different DevOps tools. I’m currently learning Ansible advanced.
+
 - 💞️ I’m looking to collaborate on automation scripts for Azure and other learning resources.
+
 - 📫 How to reach me - LinkedIn- https://www.linkedin.com/in/themr255/
 
 <!---
