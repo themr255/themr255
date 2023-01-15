@@ -8,10 +8,6 @@
 
 - 📫 How to reach me - LinkedIn- https://www.linkedin.com/in/themr255/
 
-<p align = "center">
-  <img src = "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width = 200>
-  <img src = "https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width = 200>
-</p>
 
 <!---
 themr255/themr255 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
