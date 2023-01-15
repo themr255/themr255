@@ -2,7 +2,7 @@
  
 - 💻💼 I'm currently working as DevOps engineer. And mainly working on Azure DevOps pipelines, Ansible, Python and Shell script automations.
 
-- 📘✍️ I’m interested in learning different DevOps tools. I’m currently learning Ansible advanced.
+- 📘✍️ I’m interested in learning different DevOps tools. I’m currently learning and preparing content on DevOps terminologies and tools.
 
 - 💞️ I’m looking to collaborate on automation scripts for Azure and other learning resources.
 
