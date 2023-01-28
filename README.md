@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **Automation scripts for Azure**
+- 👯 I’m looking to collaborate on **creating content on DevOps tools and terminologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/themr255](https://github.com/themr255)
 
