@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 
-- 💻💼 I'm currently working as **DevOps engineer**. And mainly working on Azure DevOps pipelines, Ansible, Python and Shell script automations.
+- 💻💼 I'm currently working as **DevOps Engineer**. And mainly working on Azure DevOps pipelines, Ansible, Python and Shell script automations.
 
 - 🌱 I’m currently learning **Docker**
 
