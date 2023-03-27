@@ -6,13 +6,13 @@
 
 - 💻💼 I'm currently working as **DevOps Engineer**. And mainly working on Azure DevOps pipelines, Ansible, Python and Shell script automations.
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning different **DevOps tools**
 
 - 👯 I’m looking to collaborate on **creating content on DevOps tools and terminologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/themr255](https://github.com/themr255)
 
-- 💬 Ask me about **Python, Shell**
+- 💬 Ask me about **Python, Microsoft Azure, Ansible, Shell**
 
 
 <p align="center">
