@@ -1,4 +1,6 @@
-Hi, guys! 👋
+<p align="center">
+  Hi, guys! ![image](https://github.com/themr255/themr255/assets/115408179/96fe7fe5-53f6-48c8-b807-afbbb619a939)
+</p>
 
 <p>&nbsp;</p>
 
