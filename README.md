@@ -18,6 +18,7 @@
 <p align="center">
   <a href="https://www.credly.com/badges/881b16c0-8745-40c6-9727-6b48578aab59/public_url"><img align="center" src="https://github.com/themr255/master/blob/main/AZ900.png" width="150" height="150"></a>
   <a href="https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1"><img align="center" src="https://github.com/themr255/master/blob/main/AZ104.png" width="150" height="150"></a>
+  <a href="[https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1](https://www.credly.com/badges/ce957436-c02b-4412-bfdc-8b517251cd81)"><img align="center" src="https://github.com/themr255/master/blob/main/AZ-400 - DevOps Engineer Expert.png" width="150" height="150"></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themr255" alt="themr255" /></a> </p>
