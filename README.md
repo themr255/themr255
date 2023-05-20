@@ -1,7 +1,3 @@
-
-  Hi, guys! ![image](https://github.com/themr255/themr255/assets/115408179/96fe7fe5-53f6-48c8-b807-afbbb619a939)
-
-
 <p>&nbsp;</p>
 
 - 💻💼 I'm currently working as **DevOps Engineer**. And mainly working on Azure DevOps pipelines, Ansible, Python and Shell script automations.
