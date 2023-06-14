@@ -23,7 +23,7 @@
   <a href="[https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1](https://www.credly.com/badges/ce957436-c02b-4412-bfdc-8b517251cd81)"><img align="center" src="https://github.com/themr255/master/blob/main/AZ-400 - DevOps Engineer Expert.png" width="150" height="150"></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themr255&theme=onedark" alt="themr255" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=themr255&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
