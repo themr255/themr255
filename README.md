@@ -23,7 +23,7 @@
   <a href="[https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1](https://www.credly.com/badges/ce957436-c02b-4412-bfdc-8b517251cd81)"><img align="center" src="https://github.com/themr255/master/blob/main/AZ-400 - DevOps Engineer Expert.png" width="150" height="150"></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themr255&theme=onedark" alt="themr255" /></a> </p>
+<img align="center" src="https://github-profile-trophy.vercel.app/themr255?username=themr255&theme=onedark&row=1" alt="Streak Stats" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,8 +51,11 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=avif&w=256" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themr255&show_icons=true&locale=en" alt="themr255" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=themr255&show_icons=true&locale=en" alt="themr255" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" />
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themr255&" alt="themr255" /> </p>
+<img align="center" src="https://streak-stats.demolab.com/?user=themr255&theme=radical&mode=weekly" alt="Streak Stats" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themr255&theme=radical" alt="themr255" />
+
