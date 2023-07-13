@@ -21,7 +21,7 @@
 
 <h1></h1>
 
-- Certifications
+<h3 align="center">Certifications</h3>
 
 <p align="center">
   <a href="https://www.credly.com/badges/881b16c0-8745-40c6-9727-6b48578aab59/public_url"><img align="center" src="https://github.com/themr255/master/blob/main/AZ900.png" width="150" height="150"></a>
@@ -31,7 +31,7 @@
 
 <h1></h1>
 
-- Trophies
+<h3 align="center">Trophies</h3>
   
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/themr255?username=themr255&theme=radical&row=1" alt="Streak Stats" /></p>
