@@ -73,7 +73,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" />
 
 
-<img align="center" src="https://streak-stats.demolab.com/?user=themr255&theme=radical&mode=weekly" alt="Streak Stats" />
+<img align="left" src="https://streak-stats.demolab.com/?user=themr255&theme=radical&mode=weekly" alt="Streak Stats"  width="400"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themr255&theme=radical" alt="themr255" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themr255&theme=radical" alt="themr255"  width="400"/>
 
