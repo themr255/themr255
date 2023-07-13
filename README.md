@@ -23,7 +23,8 @@
   <a href="[https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1](https://www.credly.com/badges/ce957436-c02b-4412-bfdc-8b517251cd81)"><img align="center" src="https://github.com/themr255/master/blob/main/AZ-400 - DevOps Engineer Expert.png" width="150" height="150"></a>
 </p>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/themr255?username=themr255&theme=onedark&row=1" alt="Streak Stats" />
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/themr255?username=themr255&theme=onedark&row=1" alt="Streak Stats" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
