@@ -68,9 +68,9 @@
 
 <h1></h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255"  width="304"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" height="208"/>
 
 
 <img align="left" src="https://streak-stats.demolab.com/?user=themr255&theme=radical&mode=weekly" alt="Streak Stats"  width="400"/>
