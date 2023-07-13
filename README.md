@@ -18,14 +18,25 @@
 - 💬 Ask me about **Python, Microsoft Azure, Ansible, Shell**.
 
 
+
+<h1></h1>
+
+- Certifications
+
 <p align="center">
   <a href="https://www.credly.com/badges/881b16c0-8745-40c6-9727-6b48578aab59/public_url"><img align="center" src="https://github.com/themr255/master/blob/main/AZ900.png" width="150" height="150"></a>
   <a href="https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1"><img align="center" src="https://github.com/themr255/master/blob/main/AZ104.png" width="150" height="150"></a>
   <a href="[https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1](https://www.credly.com/badges/ce957436-c02b-4412-bfdc-8b517251cd81)"><img align="center" src="https://github.com/themr255/master/blob/main/AZ-400 - DevOps Engineer Expert.png" width="150" height="150"></a>
 </p>
 
+<h1></h1>
+
+- Trophies
+  
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/themr255?username=themr255&theme=onedark&row=1" alt="Streak Stats" /></p>
+
+<h1></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +44,8 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/maheshrm255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/maheshrm255" height="30" width="40" /></a>
 <a href="https://discord.gg/TheMr255#8925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TheMr255#8925" height="30" width="40" /></a>
 </p>
+
+<h1></h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> 
@@ -53,9 +66,12 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=avif&w=256" alt="postman" width="40" height="40"/> </a> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" />
+<h1></h1>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=themr255&show_icons=true&locale=en&theme=radical" alt="themr255" />
+
 
 <img align="center" src="https://streak-stats.demolab.com/?user=themr255&theme=radical&mode=weekly" alt="Streak Stats" />
 
