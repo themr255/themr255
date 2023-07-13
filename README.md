@@ -34,7 +34,7 @@
 - Trophies
   
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/themr255?username=themr255&theme=onedark&row=1" alt="Streak Stats" /></p>
+<img align="center" src="https://github-profile-trophy.vercel.app/themr255?username=themr255&theme=radical&row=1" alt="Streak Stats" /></p>
 
 <h1></h1>
 
