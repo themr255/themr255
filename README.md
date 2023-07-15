@@ -1,10 +1,12 @@
-<h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=28&duration=3000&pause=800&color=D81DF7&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+it's+Mahesh!;Let's+innovate+%26+share+our+creations+on+GitHub;Good+Luck+%3A)" alt="Typing SVG" /></a> </h1>
-
-<!--<p align="center">
+<p align="center">
   <img align="center" src="https://github.com/themr255/master/blob/main/GitHub%20Banner.jpg" width="800">
 </p>
 
-<p>&nbsp;</p>-->
+<h1></h1>
+
+<h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=28&duration=3000&pause=800&color=D81DF7&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+it's+Mahesh!;Let's+innovate+%26+share+our+creations+on+GitHub;Good+Luck+%3A)" alt="Typing SVG" /></a> </h1>
+
+<p>&nbsp;</p>
 - 💻💼 I'm currently working as **DevOps Engineer**. And mainly working on Azure DevOps pipelines, Ansible, Docker, Python and Shell script automations.
 
 - $\textcolor{orange}{\textsf{TWS Community Builder}}$ - https://www.linkedin.com/company/trainwithshubham/
