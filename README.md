@@ -26,9 +26,9 @@
 <h3 align="center">Certifications</h3>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/881b16c0-8745-40c6-9727-6b48578aab59/public_url"><img align="center" src="https://github.com/themr255/master/blob/main/AZ900.png" width="150" height="150"></a>
-  <a href="https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1"><img align="center" src="https://github.com/themr255/master/blob/main/AZ104.png" width="150" height="150"></a>
-  <a href="https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1"><img align="center" src="https://github.com/themr255/master/blob/main/AZ-400 - DevOps Engineer Expert.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/badges/881b16c0-8745-40c6-9727-6b48578aab59/public_url"><img align="center" src="https://github.com/themr255/Azure-Certification-Badges/blob/main/AZ900%20-%20Azure%20Fundamentals.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1"><img align="center" src="https://github.com/themr255/Azure-Certification-Badges/blob/main/AZ104%20-%20Azure%20Administrator.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/badges/93cc81cd-c521-467f-8eeb-e867a1fee7b1"><img align="center" src="https://github.com/themr255/Azure-Certification-Badges/blob/main/AZ-400%20-%20DevOps%20Engineer%20Expert.png" width="150" height="150"></a>
 </p>
 
 <h1></h1>
