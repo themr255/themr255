@@ -4,23 +4,27 @@
 
 <h1></h1>
 
-<h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=28&duration=3000&pause=800&color=D81DF7&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+it's+Mahesh!;Let's+innovate+%26+share+our+creations+on+GitHub;Good+Luck+%3A)" alt="Typing SVG" /></a> </h1>
+<h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=28&duration=3000&pause=800&color=D81DF7&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+it's+Mahesh!;Let's+innovate+%26+share+our+creations+on+GitHub;Good+Luck+😄" alt="Typing SVG" /></a> </h1>
 
-- 💻💼 I'm currently working as **DevOps Engineer**. And mainly working on Azure DevOps pipelines, Ansible, Docker, Python and Shell script automations.
+<h3 align="center">So what I'm currently doing?</h3>
+
+- I'm currently working as **DevOps Engineer**.
+- Mainly working on Python, Azure DevOps, Bash | Shell script Automations, Ansible and Docker.
+
+<h1></h1>
+
+<h3 align="center">Do I contribute to any DevOps community?</h3>
 
 - $\textcolor{orange}{\textsf{TWS Community Builder}}$ - https://www.linkedin.com/company/trainwithshubham/
   
 - $\textcolor{#F33A6A}{\textsf{CloudVerse }}$ ☁️🚀 $\textcolor{#F33A6A}{\textsf{ - The Multiverse of Cloud}}$ - https://www.linkedin.com/groups/9386152/
 
-- 🌱 I’m currently learning different **DevOps tools**.
+<h1></h1>
 
-- 👯 I’m looking to collaborate on **creating content on DevOps tools and terminologies**.
+<h3 align="center">Need help?</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/themr255](https://github.com/themr255)
-
-- 💬 Ask me about **Python, Microsoft Azure, Ansible, Shell**.
-
-
+- 💬 Ask me about **Python, Microsoft Azure, Ansible, Bash | Shell Scripting, Docker**.
+- I am available on **LinkedIn** and **Discord** 😊
 
 <h1></h1>
 
