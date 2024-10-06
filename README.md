@@ -1,30 +1,21 @@
-<p align="center">
-  <img align="center" src="https://github.com/themr255/GitHub-Banners/blob/main/GitHub%20Banner.jpg">
-</p>
 
 <h1></h1>
 
 <h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=28&duration=3000&pause=800&color=D81DF7&center=true&vCenter=true&width=800&height=60&lines=Hey%2C+it's+Mahesh!;Let's+innovate+%26+share+our+creations+on+GitHub;Good+Luck+😄" alt="Typing SVG" /></a> </h1>
 
-<h3 align="center">So what I'm currently doing?</h3>
+<h3 align="center">What I'm Working On</h3>
 
-- I'm currently working as **DevOps Engineer**.
-- Mainly working on Python, Azure DevOps, Bash | Shell script Automations, Ansible and Docker.
-
-<h1></h1>
-
-<h3 align="center">Do I contribute to any DevOps community?</h3>
-
-- $\textcolor{orange}{\textsf{TWS Community Builder}}$ - https://www.linkedin.com/company/trainwithshubham/
-  
-- $\textcolor{#F33A6A}{\textsf{CloudVerse }}$ ☁️🚀 $\textcolor{#F33A6A}{\textsf{ - The Multiverse of Cloud}}$ - https://www.linkedin.com/groups/9386152/
+- I am currently working as a **DevOps Engineer**.
+- My main project involves migrating a Java application from on-premises infrastructure to Azure.
+- I assist in managing several applications that are hosted on Microsoft Azure.
+- I am utilizing Python, Bash, Shell, and Ansible for automation tasks.
 
 <h1></h1>
 
-<h3 align="center">Need help?</h3>
+<h3 align="center">I’m Here to Help!</h3>
 
-- 💬 Ask me about **Python, Microsoft Azure, Ansible, Bash | Shell Scripting, Docker**.
-- I am available on **LinkedIn** and **Discord** 😊
+- 💬 Feel free to ask me about Python, Microsoft Azure, Ansible, Bash, Shell Scripting, or Docker.
+- You can reach me on LinkedIn and Discord 😊
 
 <h1></h1>
 
@@ -38,14 +29,21 @@
 
 <h1></h1>
 
-<h3 align="center">Trophies</h3>
-  
+<h3 align="center">GitHub Contribution Streaks</h3>
+
+<!--
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/themr255?username=themr255&theme=radical&row=1" alt="Streak Stats" /></p>
+  <img src="https://github-trophies.vercel.app/?username=themr255&theme=dracula&no-bg=true" alt="GitHub Trophies" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=themr255&theme=dracula&row=1&column=6&no-bg=true" alt="GitHub Trophies" />
+</p>
 
 <h1></h1>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/themr255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/themr255/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/maheshrm255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/maheshrm255" height="30" width="40" /></a>
@@ -54,7 +52,7 @@
 
 <h1></h1>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
