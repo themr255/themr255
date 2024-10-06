@@ -82,9 +82,8 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themr255&theme=radical" alt="themr255"  width="400"/>
 
----
+<h1></h1>
 
 ## Profile Image Attribution
 - Profile picture designed by [Freepik](https://www.freepik.com).
-
 ---
